@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "gl2.h": "c",
+        "gl2platform.h": "c"
+    }
+}
